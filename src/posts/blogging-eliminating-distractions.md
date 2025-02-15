@@ -1,5 +1,5 @@
 ---
-title: Blogging: Eliminating Distractions
+title: Blogging - Eliminating Distractions
 description:
 date: 2024-08-17
 tags:

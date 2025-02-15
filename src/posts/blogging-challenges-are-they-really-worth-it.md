@@ -1,5 +1,5 @@
 ---
-title: Blogging Challenges: Are They Really Worth It?
+title: Blogging Challenges - Are They Really Worth It?
 description:
 date: 2024-08-13
 tags:
