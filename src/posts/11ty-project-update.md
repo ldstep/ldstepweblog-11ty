@@ -3,7 +3,7 @@ title: 11ty project update
 description:
 date: 2025-02-03
 tags:
-  - posts
+   - posts
 layout: layouts/post.njk
 ---
 
