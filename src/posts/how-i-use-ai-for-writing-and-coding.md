@@ -1,11 +1,13 @@
 ---
 title: How I use AI for writing and coding
-description: 
+description:
 date: 2025-02-06
 tags:
-  - posts
+   - posts
 layout: layouts/post.njk
 ---
+
+Posted on February 6, 2025 by Loren
 
 I’ve been using AI in two ways: for help with my writing and for figuring out how to do things.
 
