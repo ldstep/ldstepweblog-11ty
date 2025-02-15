@@ -11,5 +11,3 @@ I’ve been blogging for over twenty years on various platforms. This is now my 
 Elsewhere:
 
 I’ve been writing about how I use Apple gadgets and apps, and sharing tech tips that make my digital life easier at [ldstephens.me](https://ldstephens.me/).
-
-### Posts
