@@ -329,30 +329,6 @@
 <pubDate></pubDate>
 </item>
 <item>
-<title>Sorry for all the test posts today</title>
-<link>https://lstep.xyz/posts/sorry-for-all-the-test-posts-today/</link>
-<description>
-<![CDATA[
-<p>Posted on February 16, 2025 by Loren</p>
-<p>Hey friends, sorry for all the test posts today. I’m working on getting the RSS feed working properly, and the only way to know if it’s working correctly is with test posts.</p>
-
-]]>
-</description>
-<pubDate></pubDate>
-</item>
-<item>
-<title>Test Post</title>
-<link>https://lstep.xyz/posts/test-one/</link>
-<description>
-<![CDATA[
-<p>Posted on February 16, 2025 by Loren</p>
-<p>This is a test.</p>
-
-]]>
-</description>
-<pubDate></pubDate>
-</item>
-<item>
 <title>Test Post 2</title>
 <link>https://lstep.xyz/posts/test-post-2/</link>
 <description>
@@ -371,6 +347,30 @@
 <![CDATA[
 <p>Posted on February 16, 2025 by Loren</p>
 <p>This is test post 3. I’m trying to get the rss feed working properly.</p>
+
+]]>
+</description>
+<pubDate></pubDate>
+</item>
+<item>
+<title>Test Post</title>
+<link>https://lstep.xyz/posts/test-one/</link>
+<description>
+<![CDATA[
+<p>Posted on February 16, 2025 by Loren</p>
+<p>This is a test.</p>
+
+]]>
+</description>
+<pubDate></pubDate>
+</item>
+<item>
+<title>Sorry for all the test posts today</title>
+<link>https://lstep.xyz/posts/sorry-for-all-the-test-posts-today/</link>
+<description>
+<![CDATA[
+<p>Posted on February 16, 2025 by Loren</p>
+<p>Hey friends, sorry for all the test posts today. I’m working on getting the RSS feed working properly, and the only way to know if it’s working correctly is with test posts.</p>
 
 ]]>
 </description>

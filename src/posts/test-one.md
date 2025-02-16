@@ -1,7 +1,7 @@
 ---
 title: Test Post
 description:
-date: 2025-02-16
+date: 2025-02-16T21:21:27Z
 tags:
    - posts
 layout: layouts/post.njk

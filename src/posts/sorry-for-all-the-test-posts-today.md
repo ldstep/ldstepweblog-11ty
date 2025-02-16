@@ -1,7 +1,7 @@
 ---
 title: Sorry for all the test posts today
 description:
-date: 2025-02-16
+date: 2025-02-16T21:24:26Z
 tags:
    - posts
 layout: layouts/post.njk
