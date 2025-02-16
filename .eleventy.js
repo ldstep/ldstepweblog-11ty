@@ -14,25 +14,6 @@ module.exports = function (eleventyConfig) {
    } catch (e) {
       console.log("SEO plugin not found, skipping...");
    }
-   // Add the RFC822 date filter for RSS feed with Eastern Time Zone handling
-   eleventyConfig.addFilter("dateToRfc822", (dateObj) => {
-      // Make sure we have a valid date object
-      if (!(dateObj instanceof Date)) {
-         dateObj = new Date(dateObj);
-      }
-
-      // Handle invalid dates
-      if (isNaN(dateObj.getTime())) {
-         console.warn("Warning: Invalid date being formatted for RSS feed");
-         dateObj = new Date(); // Fallback to current date
-      }
-
-      // Convert to RFC822 format with Eastern Time Zone
-      // 'America/New_York' covers both EST and EDT depending on time of year
-      return DateTime.fromJSDate(dateObj, {
-         zone: "America/New_York",
-      }).toRFC2822();
-   });
 
    eleventyConfig.setTemplateFormats([
       // Templates:
