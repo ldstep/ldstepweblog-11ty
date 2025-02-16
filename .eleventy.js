@@ -15,6 +15,21 @@ module.exports = function (eleventyConfig) {
       console.log("SEO plugin not found, skipping...");
    }
 
+   eleventyConfig.addFilter("dateToRfc822", (dateObj) => {
+      // Create DateTime from the input date, ensuring we start with Eastern time
+      let dt = DateTime.fromJSDate(new Date(dateObj), {
+         zone: "America/New_York",
+      });
+
+      // If time components are all 0, this was likely a date-only input
+      if (dt.hour === 0 && dt.minute === 0 && dt.second === 0) {
+         // Set to noon on the intended date
+         dt = dt.plus({ hours: 12 });
+      }
+
+      return dt.toRFC2822();
+   });
+
    eleventyConfig.setTemplateFormats([
       // Templates:
       "html",

@@ -1,23 +1,368 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>lstep.xyz</title>
-        <link>https://lstep.xyz</link>
-        <description>The personal weblog of Loren</description>
-        <atom:link href="https://lstep.xyz/feed.xml" rel="self" type="application/rss+xml" />
+<channel>
+<title>lstep.xyz</title>
+<link>https://lstep.xyz</link>
+<description>The personal weblog of Loren</description>
+<atom:link href="https://lstep.xyz/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>So You&#39;re Thinking About Monetizing Your Blog</title>
+<link>https://lstep.xyz/posts/so-youre-thinking-about-monetizing-your-blog/</link>
+<description>
+<![CDATA[
+<p>Posted on July 13, 2024 by Loren</p>
+<p>Steve at An Almost Anonymous Blog <a href="https://lwgrs.bearblog.dev/paywalls-pain-and-balance/">writing about paywalls:</a></p>
+<blockquote>
+<p>I wrote to myself yesterday saying that I'm resigned to the fact that I'm not going to make &quot;serious&quot; money online. On one hand, it sucks to think that I have all these big plans for myself and realize that no, I'm not going to make a living out of this. On the other hand, it's freeing: I can write anything I want without worrying about the quality, or feel like I need to be a &quot;content creator&quot;.</p>
+</blockquote>
+<p>Lately, I've noticed a growing trend among fellow indie bloggers attempting to monetize their blog. It's become apparent that something fundamental has changed. The content I once enjoyed reading regularly has changed, and unfortunately, not for the better. These bloggers seem to be adjusting their writing style and content strategy, likely in pursuit of attracting more subscribers. And the frequency of their posts has increased, but the substance has dwindled.</p>
+<p>The question that lingers is whether the income generated from these efforts significantly impacts their lives financially. I bet that in 99.9% of cases it doesn't. By switching to a monetized model for your blog you will probably piss off a lot of your faithful readers. So why bother?</p>
 
-        <item>
-            <title>Test Post 3</title>
-            <link>https://lstep.xyz/posts/test-post-3/</link>
-            <description>
-            <![CDATA[
-            <p>Posted on February 16, 2025 by Loren</p>
+]]>
+</description>
+<pubDate>Fri, 12 Jul 2024 20:00:00 -0400</pubDate>
+</item>
+<item>
+<title>Social Media</title>
+<link>https://lstep.xyz/posts/social-media/</link>
+<description>
+<![CDATA[
+<p>Posted on July 24, 2024 by Loren</p>
+<p>Hey friends, let's talk social media. It's been around forever, and you know what? I gotta confess, I've never been a huge fan. Facebook, Instagram, TikTok, Snapchat – I’ve had an account on any of them.</p>
+<p>The closest I came was Twitter. Used to have it on and off, mainly to keep up with current events. But after that whole thing with the shitposter buying XTwitter I said fuck this and deleted my account for good.</p>
+<p>For a while now, I've been on Mastodon. It's a different platform, but honestly? Here's the thing: everyone I follow there also has a blog with an RSS feed that follow. And guess what? The stuff I see on Mastodon is the same stuff I’ve already seen in those feeds. There's some occasional back-and-forth but for conversations I much prefer email. You can always reach me through my blog if you ever want to chat.</p>
+<p>Anyway, after a lot of thinking, I've decided to ditch Mastodon too. Social media, just ain't my thing. I'll still be here on the blog, creating and sharing my thoughts. Just minus the social media.</p>
 
-            <p>This is test post 3. I’m trying to get the rss feed working properly.</p>
+]]>
+</description>
+<pubDate>Tue, 23 Jul 2024 20:00:00 -0400</pubDate>
+</item>
+<item>
+<title>Advice on Blogging</title>
+<link>https://lstep.xyz/posts/advice-on-blogging/</link>
+<description>
+<![CDATA[
+<p>Posted on July 27, 2024 by Loren</p>
+<p><a href="https://blog.jim-nielsen.com/2023/advice-on-blogging/">Jim Nielsen</a></p>
+<blockquote>
+<p>What my blog is now is a result of me wrestling with what it even means to blog. What I love about “blogging” is how personal it is. Even the word, “blog”, doesn’t give you any classifying genre of what content or experience you’ll get from any one individual’s blog.</p>
+</blockquote>
+<p>Blogging is all about personal expression. The best part? You never know what you'll get from someone's blog, making each one a unique discovery.</p>
 
-             ]]>
-             </description>
-            <pubDate>Sun, 16 Feb 2025 11:23:10 -0500</pubDate>   
-        </item>
-    </channel>
+]]>
+</description>
+<pubDate>Fri, 26 Jul 2024 20:00:00 -0400</pubDate>
+</item>
+<item>
+<title>RSS Versus Bookmarks</title>
+<link>https://lstep.xyz/posts/rss-versus-bookmarks/</link>
+<description>
+<![CDATA[
+<p>Posted on August 03, 2024 by Loren</p>
+<p>Coincidentally I read two blog posts about RSS within days of each other this week. Chris is emphasizing the benefits of RSS and encouraging folks to start using it while Jason has decided to stop using it. So I thought I would chime in.</p>
+<p><a href="https://thoughts.uncountable.uk/request-for-iphone-rss-help/">Chris</a></p>
+<p><strong>Request for iPhone RSS help</strong></p>
+<blockquote>
+<p>I actually prefer if <a href="https://thoughts.uncountable.uk/id-rather-you-didnt-read-this/">you read my blog over RSS</a> than the web, for two reasons. Firstly, you have more chance of seeing my future posts that way, rather than remembering to visit the website again. But secondly, and more importantly, I think you will have an improved digital life if you incorporate RSS into your daily habits.</p>
+</blockquote>
+<p><a href="https://jasonjournals.com/posts/no-need-for-feeds">Jason</a></p>
+<p><strong>No Need For Feeds</strong></p>
+<blockquote>
+<p>I decided to try something old-school, relatively “low-tech” and “slow-tech.” I deleted my RSS Reader app (NetNewsWire) from all my devices. And I have no web bookmarks to Feedly. But how would I keep up with the latest? What about the cool sites I follow? Answer: <em>surf the web!</em></p>
+<p>Now I simply rely on my browser’s <strong>bookmarks</strong>. I made a folder called, “RSS Replacement” and saved all the sites that I like to visit for new articles. So I more <em>intentionally</em> go to my bookmark folder and click those I want to visit when I think to do so. I no longer feel pulled to frequently check an app — pull to refresh.</p>
+</blockquote>
+<p>I appreciate Jason's reasoning for deciding to stop using RSS but I side with Chris on this. I have been using RSS for as long as I can remember. Here's why: using RSS centralizes my favorite blogs and news sites, all in one place. I get real-time updates and I never miss a post from my favorite bloggers. Without RSS there is little chance that I would have ever seen the blog post above written by Chris and Jason.</p>
+
+]]>
+</description>
+<pubDate>Fri, 02 Aug 2024 20:00:00 -0400</pubDate>
+</item>
+<item>
+<title>Blogging Challenges - Are They Really Worth It?</title>
+<link>https://lstep.xyz/posts/blogging-challenges-are-they-really-worth-it/</link>
+<description>
+<![CDATA[
+<p>Posted on August 13, 2024 by Loren</p>
+<p>As an indie blogger, our unique voice is our biggest asset. Blogging challenges, especially those requiring daily posts, often lead to low-quality content.</p>
+<p>I prefer reading spontaneous posts that are authentic, not those written solely to meet a daily challenge goal. As a reader, I can easily tell the difference.</p>
+<p>Write when you have something genuine to share, rather than forcing content to meet a challenge deadline. Just my opinion!</p>
+
+]]>
+</description>
+<pubDate>Mon, 12 Aug 2024 20:00:00 -0400</pubDate>
+</item>
+<item>
+<title>Blogging - Eliminating Distractions</title>
+<link>https://lstep.xyz/posts/blogging-eliminating-distractions/</link>
+<description>
+<![CDATA[
+<p>Posted on August 17, 2024 by Loren</p>
+<p>This is Lionel &quot;Ploum&quot; Dricot <a href="https://manuelmoreale.com/pb-ploum">writing</a> about his blog on <a href="https://peopleandblogs.com/">People and Blogs</a>with Manu Moreale:</p>
+<blockquote>
+<p>My blog is exactly where I want it to be. If I had to start again, I would simply do it like I did in 2022. I was quick to remove any form of comments from my blog and, later, any kind of statistics. As far as I know, I’m one of the few strong advocates for the complete removal of statistics/analytic/tracking tools. It’s not ethical to spy on users but it is also completely counterproductive. Statistics on websites are a brainworm. People are obsessed by it and it makes them write dumb stuff in order to increase a dumb counter. Getting rid of any audience-measuring tool is one of the best things I did in 2013.</p>
+</blockquote>
+<p>[…]</p>
+<blockquote>
+<p>I’ve completely deleted all my social network accounts and never felt so free. Ironically, the less I was using social networks, the more readers I had on my blog. Social networks don’t bring you an audience. This is a lie! Social networks distract you from your real work and prevent your audience from reaching you. That’s their whole business! I know how frightening it is to delete permanently an account with thousands of followers. But this number is also a lie.</p>
+</blockquote>
+<p>This quote has prompted me to rethink my approach to this blog. While I’ve always valued the freedom to write what I want, the reminder to eliminate distractions like analytics and social media has hit home.</p>
+<p>I've turned off analytics to focus more on the writing. I've also eliminated social media letting my blog stand on its own merits. This feels like a step toward a better connection with my work and readers.</p>
+
+]]>
+</description>
+<pubDate>Fri, 16 Aug 2024 20:00:00 -0400</pubDate>
+</item>
+<item>
+<title>15 blogging rules</title>
+<link>https://lstep.xyz/posts/15-blogging-rules/</link>
+<description>
+<![CDATA[
+<p>Posted on September 3, 2024 by Loren</p>
+<blockquote>
+<ol>
+<li>Give up on trying to be popular. I try not to filter myself based on what I believe will be popular. Some of my favourite posts get ignored. Some posts get popular and I have no idea why. Besides, terrible posts get buried fast if I’m posting three times a week. So post with abandon.</li>
+<li>Give up on trying to be interesting. Readers will come to my site for what’s interesting to me, or not, it’s fine, just say what I think about whatever I’m thinking about.</li>
+</ol>
+</blockquote>
+<p><a href="https://interconnected.org/home/2020/09/10/streak">Matt Webb</a></p>
+
+]]>
+</description>
+<pubDate>Mon, 02 Sep 2024 20:00:00 -0400</pubDate>
+</item>
+<item>
+<title>Who am I responsible to here?</title>
+<link>https://lstep.xyz/posts/who-am-i-responsible-to-here/</link>
+<description>
+<![CDATA[
+<p>Posted on September 3, 2024 by Loren</p>
+<p>&quot;Whenever I change blogging platforms or domain names or simply post to several places, I feel a twinge of guilt. How will my “audience” feel about the changes? Does it confuse things?[…] I don’t get a lot of traffic, but it’s also not zero traffic, so I feel some responsibility. But why? I am not writing for money or influence or popularity. I write to better understand what I’m thinking about, and sometimes share the result. I write so that I have a record of those things. I write, almost entirely, for me.[…] In that light, I shouldn’t need to worry about whether my RSS feed is consistent or if people need to follow me in too many places. I don’t want to be a dick about it, but c’mon, it’s an unimportant personal blog by some nobody on the internet. Let’s not overthink it.&quot;</p>
+<p><a href="https://baty.net/2024/07/who-am-i-responsible-to-here/">Jack Baty</a></p>
+
+]]>
+</description>
+<pubDate>Mon, 02 Sep 2024 20:00:00 -0400</pubDate>
+</item>
+<item>
+<title>Write Like You Talk</title>
+<link>https://lstep.xyz/posts/write-like-you-talk/</link>
+<description>
+<![CDATA[
+<p>Posted on September 3, 2024 by Loren</p>
+<p>&quot;Here's a simple trick for getting more people to read what you write: write in spoken language.[…] It seems to be hard for most people to write in spoken language. So perhaps the best solution is to write your first draft the way you usually would, then afterward look at each sentence and ask &quot;Is this the way I'd say this if I were talking to a friend?&quot; If it isn't, imagine what you would say, and use that instead. After a while this filter will start to operate as you write. When you write something you wouldn't say, you'll hear the clank as it hits the page.[…] just don't let a sentence through unless it's the way you'd say it to a friend.&quot;</p>
+<p><a href="https://paulgraham.com/talk.html">Paul Graham</a></p>
+
+]]>
+</description>
+<pubDate>Mon, 02 Sep 2024 20:00:00 -0400</pubDate>
+</item>
+<item>
+<title>my morning walks with my dog Trixie</title>
+<link>https://lstep.xyz/posts/my-morning-walks-with-my-dog-trixie/</link>
+<description>
+<![CDATA[
+<p>Posted on September 23, 2024 by Loren</p>
+<p>One of my favorite things is my morning walks with my dog Trixie and listening to a podcast. We walk every morning rain, snow, wind, or freezing temperatures. We live in such a wonderful place. Our walks are usually about two miles. We walk out our long driveway to the road. The first thing we see is the farm across the street. Then, we turn left and walk to the neighborhood where everyone knows us, down to the main road, and then back up the long road to home, where everyone waves as they drive by. This has been a morning routine for going on 7 years.</p>
+
+]]>
+</description>
+<pubDate>Sun, 22 Sep 2024 20:00:00 -0400</pubDate>
+</item>
+<item>
+<title>Re - On personal websites and social web</title>
+<link>https://lstep.xyz/posts/re-on-personal-websites-and-social-web/</link>
+<description>
+<![CDATA[
+<p>Posted on September 23, 2024 by Loren</p>
+<p>In this blog post, <a href="https://manuelmoreale.com/on-personal-websites-and-social-web">Manu reflects</a> on the divide between two groups regarding the future of being social on the web.</p>
+<blockquote>
+<p>And in those posts, I’m starting to see a trend of some sort. People are apparently starting to split into two camps that follow two very different ideological approaches when it comes to being social on the web. And when I say “people” I mean tech people, those who care about this type of stuff.</p>
+<p>On the other you have the people who are realising that maybe the solution is not to recreate social media but rather to abandon it and go back to a more deliberate way to be social online, using personal sites, small forums, emails, and other “traditional” tools. I’m obviously part of this second group.</p>
+<p>[…]</p>
+<p>Having said that I’m hopeful. I do think people are slowly starting to realise that you can get immense human value from the web outside of traditional social media. You have to work for it but it’s absolutely worth it.</p>
+</blockquote>
+<p>I side with Manu on this. Social Media is shit (my opinion). I’ve mentioned many times in the past that I’ve never had an account with any social media platforms that most people participate in, except for Twitter and Mastodon, both of which I’ve stopped using.</p>
+<p>Instead, I’ve discovered indie blogging and indie blogs. I have over 100 in my RSS feed, and I add a few new ones every week. I find that indie blogging provides a better, more authentic experience than social media by offering thoughtful content without the distractions of ads and algorithms. Instead of chasing likes or viral trends, indie bloggers write with passion, giving readers deeper insights and unique perspectives.</p>
+<p>Additionally, blogs create a more meaningful community where discussions feel genuine and less fleeting compared to social media’s fast-paced, superficial interactions. Bloggers also have full control over their content, free from the ever-changing algorithms that often limit visibility on social platforms.</p>
+
+]]>
+</description>
+<pubDate>Sun, 22 Sep 2024 20:00:00 -0400</pubDate>
+</item>
+<item>
+<title>Re - Life&#39;s Simple Pleasures</title>
+<link>https://lstep.xyz/posts/re-lifes-simple-pleasures/</link>
+<description>
+<![CDATA[
+<p>Posted on September 24, 2024 by Loren</p>
+<p>Lou Plummer, <a href="https://louplummer.lol/life-s-simple-pleasures/">writing about one of life’s simple pleasures</a>, said, “Give me a styrofoam tray of authentic tacos from a trailer in a convenience store parking lot selling authentic Mexican street food, and I will be happy.” This made me realize how much I miss good Mexican food. My favorite meal: two cheese enchiladas with rice and beans. When I lived in Southern California, I knew all the best spots for excellent Mexican food. Seven years ago, we moved to New Jersey, and I’m still searching for a place that serves real, authentic Mexican food.</p>
+
+]]>
+</description>
+<pubDate>Mon, 23 Sep 2024 20:00:00 -0400</pubDate>
+</item>
+<item>
+<title>Re - How I find interesting blogs</title>
+<link>https://lstep.xyz/posts/re-how-i-find-interesting-blogs/</link>
+<description>
+<![CDATA[
+<p>Posted on September 30, 2024 by Loren</p>
+<p>I like this conversation so I thought I would chime in: it revolves around how different bloggers discover new blogs. <a href="https://micro.bjhess.com/2024/09/13/i-appreciate-personal.html">Barry Hess</a> mentions submitting his blog to various directories but notes limited traffic from them. <a href="https://jrn.sh/post/how-i-find-interesting-blogs">JRN</a>responds, saying they prefer discovering blogs through bloggers linking to or responding to each other, social platforms like Mastodon, and blog exploration features on platforms like Micro.blog. And <a href="https://thoughts.uncountable.uk/re-how-i-find-interesting-blogs/">Chris</a> at “uncountable thoughts” echoes JRN’s sentiment, emphasizing that blog directories aren’t heavily used for discovery; instead, contextual cross-linking between blogs is a more effective method.</p>
+<p>I’m relatively new to the indie blogging, so I’m always on the lookout for new blogs to follow. What works best for me is when I come across a blog that references another one I almost always click through, check out the “About” page, and skim the article archives to see if their content interests me. If it does, I’ll add their blog to my RSS feed.</p>
+<p>For instance, if you’ve stumbled upon this blog post, you have the chance to discover three new blogs, in addition to mine!</p>
+<ul>
+<li><a href="https://bjhess.com/">Barry</a></li>
+<li><a href="https://jrn.sh/">JRN</a></li>
+<li><a href="https://thoughts.uncountable.uk/">Chris</a></li>
+</ul>
+
+]]>
+</description>
+<pubDate>Sun, 29 Sep 2024 20:00:00 -0400</pubDate>
+</item>
+<item>
+<title>Update on lstep.xyz</title>
+<link>https://lstep.xyz/posts/update-on-lstepxyz/</link>
+<description>
+<![CDATA[
+<p>Posted on February 1, 2025 by Loren</p>
+<p>In 2024, I picked up the lstep.xyz domain with the idea of using it as a space to blog about non-tech stuff. All my tech related writing happens over at <a href="https://ldstephens.me/">ldstephens.me</a>. But honestly? The way I’ve used it so far has been all over the place. I hosted it on Pika off and on, but I was never fully settled on it.</p>
+<p>Lately, I’ve been thinking about moving it to a static site. I finally did it. The biggest reason was that I didn’t want to be tied to a platform. That’s exactly why I moved ldstephens.me to a static site too. Sure, I love the technical challenge, but more than that, I wanted full control. Platforms change, they shut down, and they enforce rules. When you own your own site, you make the rules.</p>
+<p>This blog is mine. I built it myself, and I’m proud of that. Now I can do whatever the hell I want with it. It’s my own little corner of the internet. When you run your own site, you control everything. The content, the design, the URLs everything. No middlemen, no restrictions. Just a direct line between me and whoever stops by to read.</p>
+<p>Oh, and if you’ve been following via RSS, don’t worry. I’ve set up a 301 redirect, so your feed should keep working just fine.</p>
+
+]]>
+</description>
+<pubDate>Fri, 31 Jan 2025 19:00:00 -0500</pubDate>
+</item>
+<item>
+<title>On Don&#39;t Make a Blog, Make a Brain Dump</title>
+<link>https://lstep.xyz/posts/link-post-dont-make-a-blog-make-a-brain-dump/</link>
+<description>
+<![CDATA[
+<p>Posted on February 2, 2025 by Loren</p>
+<p><a href="https://btxx.org/posts/dump/#menu">Bradley Taunt, btxx.org</a>:</p>
+<blockquote>
+<p>Another problem arises when you finally do convince someone to start “blogging” online; self-doubt.</p>
+<ul>
+<li>“What could I possibly have to share?”</li>
+<li>“What if everyone hates what I post?”</li>
+<li>“What if my content sucks?”</li>
+</ul>
+<p>Just dump it. Who cares. It’s the internet after all, so who are you trying to impress? The point is that your sharing your own experiences that are unique to you as an individual. Posting something that you think is pointless or mundane might be extremely helpful or, at the very least, entertaining for someone else.</p>
+<p>Write up what you did over the weekend, a new recipe you tried out, review a movie/book or video game you enjoyed, list step-by-step instructions on how you installed a new appliance in your house - anything! Just write and be part of what made the internet fun, exciting and personal again.</p>
+</blockquote>
+
+]]>
+</description>
+<pubDate>Sat, 01 Feb 2025 19:00:00 -0500</pubDate>
+</item>
+<item>
+<title>“Unplatform” a guidebook for escaping social media</title>
+<link>https://lstep.xyz/posts/unplatform-a-guidebook-for-escaping-social-media/</link>
+<description>
+<![CDATA[
+<p>Posted on February 2, 2025 by Loren</p>
+<p><a href="https://unplatform.fromthesuperhighway.com/">Unplatform</a></p>
+<blockquote>
+<p>Unplatform is an interactive guidebook, online library, and recommendations database intended to help you escape social media and join the indie web.</p>
+</blockquote>
+<p>I’m not on social media, but I’m a big fan of having your own space on the indie web. If you’re thinking about quitting social media, this guidebook is definitely worth checking out.</p>
+
+]]>
+</description>
+<pubDate>Sat, 01 Feb 2025 19:00:00 -0500</pubDate>
+</item>
+<item>
+<title>11ty project update</title>
+<link>https://lstep.xyz/posts/11ty-project-update/</link>
+<description>
+<![CDATA[
+<p>Posted on February 3, 2025 by Loren</p>
+<p>My attempt at replicating this site using 11ty was a complete failure. The skills required for the project are beyond my capabilities. The site works great as is with pure <a href="https://htmlforpeople.com/">HTML and CSS</a> which I know how to manage.</p>
+
+]]>
+</description>
+<pubDate>Sun, 02 Feb 2025 19:00:00 -0500</pubDate>
+</item>
+<item>
+<title>11ty project</title>
+<link>https://lstep.xyz/posts/11ty-project/</link>
+<description>
+<![CDATA[
+<p>Posted on February 3, 2025 by Loren</p>
+<p>Yesterday, I decided to replicate this site in 11ty as a learning project. The first thing I did was install Node.js. When I came to the 11ty install step, the install failed. After some additional attempts, I determined the problem might be the version of Node.js that I installed. So I uninstalled Node.js. Today, I’ll install a different version and start over.</p>
+
+]]>
+</description>
+<pubDate>Sun, 02 Feb 2025 19:00:00 -0500</pubDate>
+</item>
+<item>
+<title>How I use AI for writing and coding</title>
+<link>https://lstep.xyz/posts/how-i-use-ai-for-writing-and-coding/</link>
+<description>
+<![CDATA[
+<p>Posted on February 6, 2025 by Loren</p>
+<p>I’ve been using AI in two ways: for help with my writing and for figuring out how to do things.</p>
+<p>My writing skills aren’t that great. I know what I want to say and how I want to say it, but I struggle to put it into words. So, I use AI to proofread and improve the structure of what I’ve written.</p>
+<p>The other way AI helps me is with writing HTML and CSS for my static blog projects. I use it to explain things in HTML or CSS and to offer the code. For example, yesterday, I had a couple of posts where I kept getting an error in my HTML, and I couldn’t figure out what was wrong. So, I copied the code and put it into Claude. It rewrote the code and explained what it fixed. I guess you could call that debugging my code.</p>
+<p>AI has become a valuable tool for me. Whether it’s helping me improve my writing or troubleshooting code, it saves me time and makes things easier.</p>
+
+]]>
+</description>
+<pubDate>Wed, 05 Feb 2025 19:00:00 -0500</pubDate>
+</item>
+<item>
+<title>Re - No, The People Didn’t Vote For This</title>
+<link>https://lstep.xyz/posts/re-no-the-people-didnt-vote-for-this/</link>
+<description>
+<![CDATA[
+<p>Posted on February 10, 2025 by Loren</p>
+<blockquote>
+<p>Democrats, obviously, aren’t thrilled, but the more meaningful data is that <a href="https://thehill.com/homenews/administration/5129353-gop-support-for-musk-influence-with-trump-falls-dramatically-poll/">Republicans don’t like what Elon Musk is doing</a> at all.[…] Voters who supported Trump based on economic promises are instead seeing federal support for their local hospitals vanish, government contracts that supported thousands of local jobs disappear, and consumer prices continue to rise. The very voters who wanted economic stability are getting the opposite: economic chaos driven by an unelected billionaire’s personal agenda.</p>
+</blockquote>
+<p><a href="https://www.techdirt.com/2025/02/10/no-the-people-didnt-vote-for-this/">Mike Masnick</a></p>
+<p>Well! Well! Well! Lied to!</p>
+
+]]>
+</description>
+<pubDate>Sun, 09 Feb 2025 19:00:00 -0500</pubDate>
+</item>
+<item>
+<title>Test Post</title>
+<link>https://lstep.xyz/posts/test-one/</link>
+<description>
+<![CDATA[
+<p>Posted on February 16, 2025 by Loren</p>
+<p>This is a test.</p>
+
+]]>
+</description>
+<pubDate>Sat, 15 Feb 2025 19:00:00 -0500</pubDate>
+</item>
+<item>
+<title>Test Post 2</title>
+<link>https://lstep.xyz/posts/test-post-2/</link>
+<description>
+<![CDATA[
+<p>Posted on February 16, 2025 by Loren</p>
+<p>This is test post 2.</p>
+
+]]>
+</description>
+<pubDate>Sat, 15 Feb 2025 19:00:00 -0500</pubDate>
+</item>
+<item>
+<title>Test Post 3</title>
+<link>https://lstep.xyz/posts/test-post-3/</link>
+<description>
+<![CDATA[
+<p>Posted on February 16, 2025 by Loren</p>
+<p>This is test post 3. I’m trying to get the rss feed working properly.</p>
+
+]]>
+</description>
+<pubDate>Sat, 15 Feb 2025 19:00:00 -0500</pubDate>
+</item>
+</channel>
 </rss>
