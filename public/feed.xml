@@ -352,5 +352,17 @@
 </description>
 <pubDate>Sat, 15 Feb 2025 19:00:00 -0500</pubDate>
 </item>
+<item>
+<title>Test Post 3</title>
+<link>https://lstep.xyz/posts/test-post-3/</link>
+<description>
+<![CDATA[
+<p>Posted on February 16, 2025 by Loren</p>
+<p>This is test post 3. I’m trying to get the rss feed working properly.</p>
+
+]]>
+</description>
+<pubDate>Sat, 15 Feb 2025 19:00:00 -0500</pubDate>
+</item>
 </channel>
 </rss>
