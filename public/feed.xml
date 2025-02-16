@@ -340,5 +340,17 @@
 </description>
 <pubDate>Sun, 16 Feb 2025 00:00:00 GMT</pubDate>
 </item>
+<item>
+<title>Test Post 2</title>
+<link>https://lstep.xyz/posts/test-post-2/</link>
+<description>
+<![CDATA[
+<p>Posted on February 16, 2025 by Loren</p>
+<p>This is test post 2.</p>
+
+]]>
+</description>
+<pubDate>Sun, 16 Feb 2025 00:00:00 GMT</pubDate>
+</item>
 </channel>
 </rss>
