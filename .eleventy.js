@@ -14,6 +14,10 @@ module.exports = function (eleventyConfig) {
    } catch (e) {
       console.log("SEO plugin not found, skipping...");
    }
+   // RFC822 date format for RSS
+   eleventyConfig.addFilter("dateToRfc822", (date) => {
+      return new Date(date).toUTCString();
+   });
 
    eleventyConfig.setTemplateFormats([
       // Templates:
