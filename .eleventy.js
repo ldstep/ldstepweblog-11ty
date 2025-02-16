@@ -15,25 +15,6 @@ module.exports = function (eleventyConfig) {
       console.log("SEO plugin not found, skipping...");
    }
 
-   eleventyConfig.addFilter("dateToRfc822", (dateObj) => {
-      // Convert the front matter date to Eastern time
-      const easternDate = DateTime.fromISO(dateObj, {
-         zone: "America/New_York",
-         setZone: true,
-      });
-
-      // Set to noon on that date
-      const noonDate = easternDate.set({
-         hour: 12,
-         minute: 0,
-         second: 0,
-         millisecond: 0,
-      });
-
-      // Format for RSS
-      return noonDate.toRFC2822();
-   });
-
    eleventyConfig.setTemplateFormats([
       // Templates:
       "html",
