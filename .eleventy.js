@@ -16,18 +16,22 @@ module.exports = function (eleventyConfig) {
    }
 
    eleventyConfig.addFilter("dateToRfc822", (dateObj) => {
-      // Create DateTime from the input date, ensuring we start with Eastern time
-      let dt = DateTime.fromJSDate(new Date(dateObj), {
+      // Convert the front matter date to Eastern time
+      const easternDate = DateTime.fromISO(dateObj, {
          zone: "America/New_York",
+         setZone: true,
       });
 
-      // If time components are all 0, this was likely a date-only input
-      if (dt.hour === 0 && dt.minute === 0 && dt.second === 0) {
-         // Set to noon on the intended date
-         dt = dt.plus({ hours: 12 });
-      }
+      // Set to noon on that date
+      const noonDate = easternDate.set({
+         hour: 12,
+         minute: 0,
+         second: 0,
+         millisecond: 0,
+      });
 
-      return dt.toRFC2822();
+      // Format for RSS
+      return noonDate.toRFC2822();
    });
 
    eleventyConfig.setTemplateFormats([
