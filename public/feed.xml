@@ -7,14 +7,14 @@
         <atom:link href="https://lstep.xyz/feed.xml" rel="self" type="application/rss+xml" />
 
         <item>
-            <title>Title</title>
-            <link>https://lstep.xyz/posts/</link>
+            <title>Live on 11ty at Last!</title>
+            <link>https://lstep.xyz/posts/live-on-11ty-at-last</link>
             <description>
             <![CDATA[
-                Content
+            <p>The site is finally live on 11ty! Still working on getting the RSS feed running properly--doing it manually for now. If you're an 11ty pro and can help, shoot me an email.</p>   
              ]]>
              </description>
-            <pubDate>Mon, 17 Feb 2025 10:48:48 -0500</pubDate>   
+            <pubDate>Mon, 17 Feb 2025 11:24:48 -0500</pubDate>   
         </item>
     </channel>
 </rss>
