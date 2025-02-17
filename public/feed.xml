@@ -1,131 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title></title>
-        <link></link>
-        <description></description>
+        <title>lstep.xyz</title>
+        <link>https://lstep.xyz</link>
+        <description>The personal weblog of Loren</description>
+        <atom:link href="https://lstep.xyz/feed.xml" rel="self" type="application/rss+xml" />
+
         <item>
-            <title>So You&#39;re Thinking About Monetizing Your Blog</title>
-            <link>/posts/so-youre-thinking-about-monetizing-your-blog/</link>
-            <description><![CDATA[ &lt;p&gt;Posted on July 13, 2024 by Loren&lt;/p&gt;
-&lt;p&gt;Steve at An Almost Anonymous Blog &lt;a href=&quot;https://lwgrs.bearblog.dev/paywalls-pain-and-balance/&quot;&gt;writing about paywalls:&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;I wrote to myself yesterday saying that I&#39;m resigned to the fact that I&#39;m not going to make &amp;quot;serious&amp;quot; money online. On one hand, it sucks to think that I have all these big plans for myself and realize that no, I&#39;m not going to make a living out of this. On the other hand, it&#39;s freeing: I can write anything I want without worrying about the quality, or feel like I need to be a &amp;quot;content creator&amp;quot;.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Lately, I&#39;ve noticed a growing trend among fellow indie bloggers attempting to monetize their blog. It&#39;s become apparent that something fundamental has changed. The content I once enjoyed reading regularly has changed, and unfortunately, not for the better. These bloggers seem to be adjusting their writing style and content strategy, likely in pursuit of attracting more subscribers. And the frequency of their posts has increased, but the substance has dwindled.&lt;/p&gt;
-&lt;p&gt;The question that lingers is whether the income generated from these efforts significantly impacts their lives financially. I bet that in 99.9% of cases it doesn&#39;t. By switching to a monetized model for your blog you will probably piss off a lot of your faithful readers. So why bother?&lt;/p&gt;
- ]]></description>
-            <pubDate>Fri, 12 Jul 2024 20:00:00 EDT</pubDate>
-        </item>
-        <item>
-            <title>Social Media</title>
-            <link>/posts/social-media/</link>
-            <description><![CDATA[ &lt;p&gt;Posted on July 24, 2024 by Loren&lt;/p&gt;
-&lt;p&gt;Hey friends, let&#39;s talk social media. It&#39;s been around forever, and you know what? I gotta confess, I&#39;ve never been a huge fan. Facebook, Instagram, TikTok, Snapchat – I’ve had an account on any of them.&lt;/p&gt;
-&lt;p&gt;The closest I came was Twitter. Used to have it on and off, mainly to keep up with current events. But after that whole thing with the shitposter buying XTwitter I said fuck this and deleted my account for good.&lt;/p&gt;
-&lt;p&gt;For a while now, I&#39;ve been on Mastodon. It&#39;s a different platform, but honestly? Here&#39;s the thing: everyone I follow there also has a blog with an RSS feed that follow. And guess what? The stuff I see on Mastodon is the same stuff I’ve already seen in those feeds. There&#39;s some occasional back-and-forth but for conversations I much prefer email. You can always reach me through my blog if you ever want to chat.&lt;/p&gt;
-&lt;p&gt;Anyway, after a lot of thinking, I&#39;ve decided to ditch Mastodon too. Social media, just ain&#39;t my thing. I&#39;ll still be here on the blog, creating and sharing my thoughts. Just minus the social media.&lt;/p&gt;
- ]]></description>
-            <pubDate>Tue, 23 Jul 2024 20:00:00 EDT</pubDate>
-        </item>
-        <item>
-            <title>Advice on Blogging</title>
-            <link>/posts/advice-on-blogging/</link>
-            <description><![CDATA[ &lt;p&gt;Posted on July 27, 2024 by Loren&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://blog.jim-nielsen.com/2023/advice-on-blogging/&quot;&gt;Jim Nielsen&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;What my blog is now is a result of me wrestling with what it even means to blog. What I love about “blogging” is how personal it is. Even the word, “blog”, doesn’t give you any classifying genre of what content or experience you’ll get from any one individual’s blog.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Blogging is all about personal expression. The best part? You never know what you&#39;ll get from someone&#39;s blog, making each one a unique discovery.&lt;/p&gt;
- ]]></description>
-            <pubDate>Fri, 26 Jul 2024 20:00:00 EDT</pubDate>
-        </item>
-        <item>
-            <title>RSS Versus Bookmarks</title>
-            <link>/posts/rss-versus-bookmarks/</link>
-            <description><![CDATA[ &lt;p&gt;Posted on August 03, 2024 by Loren&lt;/p&gt;
-&lt;p&gt;Coincidentally I read two blog posts about RSS within days of each other this week. Chris is emphasizing the benefits of RSS and encouraging folks to start using it while Jason has decided to stop using it. So I thought I would chime in.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://thoughts.uncountable.uk/request-for-iphone-rss-help/&quot;&gt;Chris&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Request for iPhone RSS help&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;I actually prefer if &lt;a href=&quot;https://thoughts.uncountable.uk/id-rather-you-didnt-read-this/&quot;&gt;you read my blog over RSS&lt;/a&gt; than the web, for two reasons. Firstly, you have more chance of seeing my future posts that way, rather than remembering to visit the website again. But secondly, and more importantly, I think you will have an improved digital life if you incorporate RSS into your daily habits.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;a href=&quot;https://jasonjournals.com/posts/no-need-for-feeds&quot;&gt;Jason&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;No Need For Feeds&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;I decided to try something old-school, relatively “low-tech” and “slow-tech.” I deleted my RSS Reader app (NetNewsWire) from all my devices. And I have no web bookmarks to Feedly. But how would I keep up with the latest? What about the cool sites I follow? Answer: &lt;em&gt;surf the web!&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Now I simply rely on my browser’s &lt;strong&gt;bookmarks&lt;/strong&gt;. I made a folder called, “RSS Replacement” and saved all the sites that I like to visit for new articles. So I more &lt;em&gt;intentionally&lt;/em&gt; go to my bookmark folder and click those I want to visit when I think to do so. I no longer feel pulled to frequently check an app — pull to refresh.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;I appreciate Jason&#39;s reasoning for deciding to stop using RSS but I side with Chris on this. I have been using RSS for as long as I can remember. Here&#39;s why: using RSS centralizes my favorite blogs and news sites, all in one place. I get real-time updates and I never miss a post from my favorite bloggers. Without RSS there is little chance that I would have ever seen the blog post above written by Chris and Jason.&lt;/p&gt;
- ]]></description>
-            <pubDate>Fri, 02 Aug 2024 20:00:00 EDT</pubDate>
-        </item>
-        <item>
-            <title>Blogging Challenges - Are They Really Worth It?</title>
-            <link>/posts/blogging-challenges-are-they-really-worth-it/</link>
-            <description><![CDATA[ &lt;p&gt;Posted on August 13, 2024 by Loren&lt;/p&gt;
-&lt;p&gt;As an indie blogger, our unique voice is our biggest asset. Blogging challenges, especially those requiring daily posts, often lead to low-quality content.&lt;/p&gt;
-&lt;p&gt;I prefer reading spontaneous posts that are authentic, not those written solely to meet a daily challenge goal. As a reader, I can easily tell the difference.&lt;/p&gt;
-&lt;p&gt;Write when you have something genuine to share, rather than forcing content to meet a challenge deadline. Just my opinion!&lt;/p&gt;
- ]]></description>
-            <pubDate>Mon, 12 Aug 2024 20:00:00 EDT</pubDate>
-        </item>
-        <item>
-            <title>Blogging - Eliminating Distractions</title>
-            <link>/posts/blogging-eliminating-distractions/</link>
-            <description><![CDATA[ &lt;p&gt;Posted on August 17, 2024 by Loren&lt;/p&gt;
-&lt;p&gt;This is Lionel &amp;quot;Ploum&amp;quot; Dricot &lt;a href=&quot;https://manuelmoreale.com/pb-ploum&quot;&gt;writing&lt;/a&gt; about his blog on &lt;a href=&quot;https://peopleandblogs.com/&quot;&gt;People and Blogs&lt;/a&gt;with Manu Moreale:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;My blog is exactly where I want it to be. If I had to start again, I would simply do it like I did in 2022. I was quick to remove any form of comments from my blog and, later, any kind of statistics. As far as I know, I’m one of the few strong advocates for the complete removal of statistics/analytic/tracking tools. It’s not ethical to spy on users but it is also completely counterproductive. Statistics on websites are a brainworm. People are obsessed by it and it makes them write dumb stuff in order to increase a dumb counter. Getting rid of any audience-measuring tool is one of the best things I did in 2013.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;[…]&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;I’ve completely deleted all my social network accounts and never felt so free. Ironically, the less I was using social networks, the more readers I had on my blog. Social networks don’t bring you an audience. This is a lie! Social networks distract you from your real work and prevent your audience from reaching you. That’s their whole business! I know how frightening it is to delete permanently an account with thousands of followers. But this number is also a lie.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;This quote has prompted me to rethink my approach to this blog. While I’ve always valued the freedom to write what I want, the reminder to eliminate distractions like analytics and social media has hit home.&lt;/p&gt;
-&lt;p&gt;I&#39;ve turned off analytics to focus more on the writing. I&#39;ve also eliminated social media letting my blog stand on its own merits. This feels like a step toward a better connection with my work and readers.&lt;/p&gt;
- ]]></description>
-            <pubDate>Fri, 16 Aug 2024 20:00:00 EDT</pubDate>
-        </item>
-        <item>
-            <title>15 blogging rules</title>
-            <link>/posts/15-blogging-rules/</link>
-            <description><![CDATA[ &lt;p&gt;Posted on September 3, 2024 by Loren&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ol&gt;
-&lt;li&gt;Give up on trying to be popular. I try not to filter myself based on what I believe will be popular. Some of my favourite posts get ignored. Some posts get popular and I have no idea why. Besides, terrible posts get buried fast if I’m posting three times a week. So post with abandon.&lt;/li&gt;
-&lt;li&gt;Give up on trying to be interesting. Readers will come to my site for what’s interesting to me, or not, it’s fine, just say what I think about whatever I’m thinking about.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;a href=&quot;https://interconnected.org/home/2020/09/10/streak&quot;&gt;Matt Webb&lt;/a&gt;&lt;/p&gt;
- ]]></description>
-            <pubDate>Mon, 02 Sep 2024 20:00:00 EDT</pubDate>
-        </item>
-        <item>
-            <title>Who am I responsible to here?</title>
-            <link>/posts/who-am-i-responsible-to-here/</link>
-            <description><![CDATA[ &lt;p&gt;Posted on September 3, 2024 by Loren&lt;/p&gt;
-&lt;p&gt;&amp;quot;Whenever I change blogging platforms or domain names or simply post to several places, I feel a twinge of guilt. How will my “audience” feel about the changes? Does it confuse things?[…] I don’t get a lot of traffic, but it’s also not zero traffic, so I feel some responsibility. But why? I am not writing for money or influence or popularity. I write to better understand what I’m thinking about, and sometimes share the result. I write so that I have a record of those things. I write, almost entirely, for me.[…] In that light, I shouldn’t need to worry about whether my RSS feed is consistent or if people need to follow me in too many places. I don’t want to be a dick about it, but c’mon, it’s an unimportant personal blog by some nobody on the internet. Let’s not overthink it.&amp;quot;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://baty.net/2024/07/who-am-i-responsible-to-here/&quot;&gt;Jack Baty&lt;/a&gt;&lt;/p&gt;
- ]]></description>
-            <pubDate>Mon, 02 Sep 2024 20:00:00 EDT</pubDate>
-        </item>
-        <item>
-            <title>Write Like You Talk</title>
-            <link>/posts/write-like-you-talk/</link>
-            <description><![CDATA[ &lt;p&gt;Posted on September 3, 2024 by Loren&lt;/p&gt;
-&lt;p&gt;&amp;quot;Here&#39;s a simple trick for getting more people to read what you write: write in spoken language.[…] It seems to be hard for most people to write in spoken language. So perhaps the best solution is to write your first draft the way you usually would, then afterward look at each sentence and ask &amp;quot;Is this the way I&#39;d say this if I were talking to a friend?&amp;quot; If it isn&#39;t, imagine what you would say, and use that instead. After a while this filter will start to operate as you write. When you write something you wouldn&#39;t say, you&#39;ll hear the clank as it hits the page.[…] just don&#39;t let a sentence through unless it&#39;s the way you&#39;d say it to a friend.&amp;quot;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://paulgraham.com/talk.html&quot;&gt;Paul Graham&lt;/a&gt;&lt;/p&gt;
- ]]></description>
-            <pubDate>Mon, 02 Sep 2024 20:00:00 EDT</pubDate>
-        </item>
-        <item>
-            <title>my morning walks with my dog Trixie</title>
-            <link>/posts/my-morning-walks-with-my-dog-trixie/</link>
-            <description><![CDATA[ &lt;p&gt;Posted on September 23, 2024 by Loren&lt;/p&gt;
-&lt;p&gt;One of my favorite things is my morning walks with my dog Trixie and listening to a podcast. We walk every morning rain, snow, wind, or freezing temperatures. We live in such a wonderful place. Our walks are usually about two miles. We walk out our long driveway to the road. The first thing we see is the farm across the street. Then, we turn left and walk to the neighborhood where everyone knows us, down to the main road, and then back up the long road to home, where everyone waves as they drive by. This has been a morning routine for going on 7 years.&lt;/p&gt;
- ]]></description>
-            <pubDate>Sun, 22 Sep 2024 20:00:00 EDT</pubDate>
+            <title>Title</title>
+            <link>https://lstep.xyz/posts/</link>
+            <description>
+            <![CDATA[
+                Content
+             ]]>
+             </description>
+            <pubDate>Mon, 17 Feb 2025 10:48:48 -0500</pubDate>   
         </item>
     </channel>
 </rss>
