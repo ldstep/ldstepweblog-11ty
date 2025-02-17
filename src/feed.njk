@@ -1,0 +1,21 @@
+---
+permalink: "/feed.xml"
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>{{ metadata.title }}</title>
+        <link>{{ metadata.base }}</link>
+        <description>{{ metadata.subtitle }}</description>
+
+        {%- for post in collections.posts | reverse | limit(10) %}
+        <item>
+            <title>{{ post.data.title }}</title>
+            <link>{{ metadata.base }}{{ post.url }}</link>
+            <description><![CDATA[ {{ post.templateContent }} ]]></description>
+            <pubDate>{{ post.date | dateToRfc822 }}</pubDate>
+        </item>
+        {%- endfor %}
+    </channel>
+</rss>
