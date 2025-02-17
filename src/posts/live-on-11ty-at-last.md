@@ -1,5 +1,5 @@
---- Live on 11ty at Last!
-title: Finally 
+---
+title: Live on 11ty at Last!
 description:
 date: 2025-02-17T16:11:34Z
 tags:
