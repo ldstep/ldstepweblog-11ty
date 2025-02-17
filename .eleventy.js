@@ -1,26 +1,27 @@
 const { DateTime } = require("luxon");
+const rssPlugin = require("@11ty/eleventy-plugin-rss");
 
-/**
- * This is the JavaScript code that determines the config for your Eleventy site
- *
- * You can add lots of customization here to define how the site builds your content
- * Try extending it to suit your needs!
- */
 module.exports = function (eleventyConfig) {
-   // Add SEO plugin support if you're using it
-   try {
-      const pluginSEO = require("eleventy-plugin-seo");
-      eleventyConfig.addPlugin(pluginSEO);
-   } catch (e) {
-      console.log("SEO plugin not found, skipping...");
-   }
+   // Add RSS Plugin
+   eleventyConfig.addPlugin(rssPlugin, {
+      type: "atom",
+      outputPath: "/feed.xml",
+      collection: "posts",
+      limit: 10,
+      metadata: {
+         language: "en",
+         title: "lstep.xyz",
+         subtitle: "A blog by Loren.",
+         base: "https://lstep.xyz",
+         author: { name: "Loren", email: "" },
+      },
+   });
 
+   // Set template formats
    eleventyConfig.setTemplateFormats([
-      // Templates:
       "html",
       "njk",
       "md",
-      // Static Assets:
       "css",
       "jpeg",
       "jpg",
@@ -30,44 +31,31 @@ module.exports = function (eleventyConfig) {
       "woff2",
    ]);
 
-   // Add passthrough copy for CSS directory
+   // Add passthrough copy for static assets
    eleventyConfig.addPassthroughCopy("./src/css/");
-
-   // Handle the style.css file in public directory
    eleventyConfig.addPassthroughCopy({ "src/public/style.css": "style.css" });
 
-   // Add watch target for CSS
+   // Watch target for CSS changes
    eleventyConfig.addWatchTarget("./src/css/");
    eleventyConfig.addWatchTarget("./src/public/style.css");
 
-   // Filters let you modify the content https://www.11ty.dev/docs/filters/
+   // Filter for formatting dates
    eleventyConfig.addFilter("htmlDateString", (dateObj) => {
       return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat(
          "yyyy-LL-dd"
       );
    });
 
+   // Disable ghostMode in BrowserSync
    eleventyConfig.setBrowserSyncConfig({ ghostMode: false });
 
-   /* Build the collection of posts to list in the site
-    * - Read the Next Steps post to learn how to extend this
-    */
+   // Collection: Posts
    eleventyConfig.addCollection("posts", function (collection) {
-      /* The posts collection includes all posts that list 'posts' in the front matter 'tags'
-       * - https://www.11ty.dev/docs/collections/
-       */
-      // Get filtered collection and reverse chronological order
       const coll = collection.getFilteredByTag("posts").reverse();
-
-      // From: https://github.com/11ty/eleventy/issues/529#issuecomment-568257426
-      // Adds {{ prevPost.url }} {{ prevPost.data.title }}, etc, to our njks templates
       for (let i = 0; i < coll.length; i++) {
-         const prevPost = coll[i - 1];
-         const nextPost = coll[i + 1];
-         coll[i].data["prevPost"] = prevPost;
-         coll[i].data["nextPost"] = nextPost;
+         coll[i].data["prevPost"] = coll[i - 1] || null;
+         coll[i].data["nextPost"] = coll[i + 1] || null;
       }
-
       return coll;
    });
 
