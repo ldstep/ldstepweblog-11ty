@@ -4,7 +4,7 @@
   <subtitle>A blog by Loren.</subtitle>
   <link href="https://lstep.xyz/feed.xml" rel="self" />
   <link href="https://lstep.xyz/" />
-  <updated>2025-02-17T16:11:34Z</updated>
+  <updated>2025-02-18T13:10:51Z</updated>
   <id>https://lstep.xyz/</id>
   <author>
     <name>Loren</name>
@@ -297,6 +297,16 @@
     <id>https://lstep.xyz/posts/live-on-11ty-at-last/</id>
     <content type="html">&lt;p&gt;Posted on February 17, 2025 by Loren&lt;/p&gt;
 &lt;p&gt;The site is finally live on 11ty! Still working on getting the RSS feed running properly--doing it manually for now. If you&#39;re an 11ty pro and can help, shoot me an email.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Let&#39;s see how this goes</title>
+    <link href="https://lstep.xyz/posts/lets-see-how-this-goes/" />
+    <updated>2025-02-18T13:10:51Z</updated>
+    <id>https://lstep.xyz/posts/lets-see-how-this-goes/</id>
+    <content type="html">&lt;p&gt;Posted on February 18, 2025 by Loren&lt;/p&gt;
+&lt;p&gt;Yesterday I installed the 11ty RSS plugin. This is my first since installing it so if you get this post in your RSS feed then it’s working.&lt;/p&gt;
+&lt;p&gt;It’s a cold morning in New Jersey 20° with a wind chill of 18°. Not supposed to get out of the 20’s all day. Looks like we’ll be confined indoors all day so I’ll work on building my other blog in 11ty.&lt;/p&gt;
 </content>
   </entry>
 </feed>
