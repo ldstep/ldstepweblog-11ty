@@ -56,7 +56,7 @@ module.exports = function (eleventyConfig) {
       outputPath: "/feed.xml",
       collection: {
          name: "posts", // This matches your existing posts collection
-         limit: 10, // 0 means no limit
+         limit: 0, // 0 means no limit
       },
       metadata: {
          language: "en",
