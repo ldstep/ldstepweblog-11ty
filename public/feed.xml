@@ -4,7 +4,7 @@
   <subtitle>A blog by Loren.</subtitle>
   <link href="https://lstep.xyz/feed.xml" rel="self" />
   <link href="https://lstep.xyz/" />
-  <updated>2025-02-19T19:54:52Z</updated>
+  <updated>2025-02-20T22:11:49Z</updated>
   <id>https://lstep.xyz/</id>
   <author>
     <name>Loren</name>
@@ -319,6 +319,20 @@
 &lt;p&gt;The difference between a plain static site and one generated with Eleventy is huge.&lt;/p&gt;
 &lt;p&gt;When managing a static site manually, everything had to be created and organized by hand HTML, CSS, and all the files. Each page was its own separate HTML file, so if something like the navigation needed updating, every page had to be changed individually. There was no templating, no automation just raw HTML, written line by line.&lt;/p&gt;
 &lt;p&gt;With Eleventy and Nunjucks, things are much easier. Content can be written in Markdown or Nunjucks templates, and Eleventy takes care of generating the final HTML. Instead of repeating the same structure on every page, layouts can be created and reused. Updates are simple--changing a single template regenerates the entire site. Data from JSON files or APIs can be pulled in to dynamically create pages. It&#39;s a much more efficient and flexible way to manage a static site compared to doing everything manually. And, the Eleventy RSS plugin automatically updates and processes an RSS feed whenever a new post is added.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Kindle Paperwhite’s annoying flashes</title>
+    <link href="https://lstep.xyz/posts/kindle-paperwhites-annoying-flashes/" />
+    <updated>2025-02-20T22:11:49Z</updated>
+    <id>https://lstep.xyz/posts/kindle-paperwhites-annoying-flashes/</id>
+    <content type="html">&lt;p&gt;Posted on February 20, 2025 by Loren&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://nice-marmot.net/Archives/2025/February_2025.html#note_2766&quot;&gt;Dave Rogers&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I have a 10th generation Kindle Paperwhite. I&#39;ve read from it a fair amount, particularly when I was away, because it&#39;s so light. But I generally don&#39;t care for the experience. It&#39;s very slow, and whenever I turn a page I get this annoying flash as the screen goes through this inversion process from whatever mode I&#39;m in until it settles on either the Dark or Light Mode, which I selected. That is, if I&#39;m in Light Mode, the page will first appear in Dark Mode, then switch to Light Mode. If I&#39;m in Dark Mode and turn the page, the page first appears in Light Mode, then switches to dark. Very annoying.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I also have a Paperwhite that I use for reading, and while I appreciate its lightweight, I’m not a huge fan of the overall experience either. I continue to use it because it’s so lightweight. I have an iPad, but it’s simply too heavy for comfortable reading.&lt;/p&gt;
+&lt;p&gt;Right now, I’m actually reading a physical book for the first time in a very long time, and I’m enjoying the experience.&lt;/p&gt;
 </content>
   </entry>
 </feed>
