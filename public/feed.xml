@@ -4,7 +4,7 @@
   <subtitle>A blog by Loren.</subtitle>
   <link href="https://lstep.xyz/feed.xml" rel="self" />
   <link href="https://lstep.xyz/" />
-  <updated>2025-03-23T10:08:57Z</updated>
+  <updated>2025-03-25T10:47:40Z</updated>
   <id>https://lstep.xyz/</id>
   <author>
     <name>Loren</name>
@@ -474,6 +474,17 @@
     <content type="html">&lt;p&gt;Posted on March 23, 2025 by Loren&lt;/p&gt;
 &lt;p&gt;I&#39;ve got this old blog over on &lt;a href=&quot;https://ldstephens.net&quot;&gt;WordPress.com&lt;/a&gt; that I don&#39;t post to anymore, but people still check it out. When it was time to renew the subscription, I just went with the free version. Now, every time you go there, there&#39;s a banner on the header of every page telling me to upgrade, and tons of fucking ads. It looks like shit.&lt;/p&gt;
 &lt;p&gt;Anyway, the other day I found this article about &lt;a href=&quot;https://www.11ty.dev/docs/migrate/wordpress/&quot;&gt;migrating blogs from WordPress to Eleventy&lt;/a&gt;. This blog is built with 11ty. So, I&#39;m trying to move the WordPress blog over to Eleventy. If it works out, I’ll deploy it on Netlify or Vercel.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Important Update - this blog has a new RSS Feed</title>
+    <link href="https://lstep.xyz/posts/important-update-this-blog-has-a-new-rss-feed/" />
+    <updated>2025-03-25T10:47:40Z</updated>
+    <id>https://lstep.xyz/posts/important-update-this-blog-has-a-new-rss-feed/</id>
+    <content type="html">&lt;p&gt;Posted on March 25, 2025 by Loren&lt;/p&gt;
+&lt;p&gt;Hey everyone, just a quick heads-up--I&#39;m moving my blog from &lt;strong&gt;lstep.xyz&lt;/strong&gt; to &lt;a href=&quot;https://ldstephens.net&quot;&gt;&lt;strong&gt;ldstephens.net&lt;/strong&gt;&lt;/a&gt;. If you follow via RSS, you&#39;ll need to update your feed settings to the new URL:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;New RSS Feed:&lt;/strong&gt; &lt;a href=&quot;https://ldstephens.net/feed/feed.xml&quot;&gt;https://ldstephens.net/feed/feed.xml&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Thanks for sticking around! See you at the new place. 🚀&lt;/p&gt;
 </content>
   </entry>
 </feed>

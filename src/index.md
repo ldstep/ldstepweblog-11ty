@@ -4,10 +4,10 @@ layout: layouts/home.njk
 
 <div class="illo-container"></div>
 
-I’m Loren, and I’m glad you stopped by my weblog.
+Posted on March 25, 2025 by Loren
 
-I’ve been blogging for over twenty years on various platforms. This is now my little corner of the internet, where I share my thoughts and opinions on life, current events, blogging, and whatever else comes to mind.
+Hey everyone, just a quick heads-up, this blog has moved from **lstep.xyz** to [**ldstephens.net**](https://ldstephens.net). If you follow via RSS, you'll need to update your feed settings to the new URL:
 
-Elsewhere:
+**New RSS Feed:** [https://ldstephens.net/feed/feed.xml](https://ldstephens.net/feed/feed.xml)
 
-I’ve been writing about how I use Apple gadgets and apps, and sharing tech tips that make my digital life easier at [ldstephens.me](https://ldstephens.me/).
+Thanks for sticking around! See you at the new place. 🚀
