@@ -4,7 +4,7 @@
   <subtitle>A blog by Loren.</subtitle>
   <link href="https://lstep.xyz/feed.xml" rel="self" />
   <link href="https://lstep.xyz/" />
-  <updated>2025-03-25T10:47:40Z</updated>
+  <updated>2025-03-22T10:15:28Z</updated>
   <id>https://lstep.xyz/</id>
   <author>
     <name>Loren</name>
@@ -186,18 +186,6 @@
 </content>
   </entry>
   <entry>
-    <title>Update on lstep.xyz</title>
-    <link href="https://lstep.xyz/posts/update-on-lstepxyz/" />
-    <updated>2025-02-01T00:00:00Z</updated>
-    <id>https://lstep.xyz/posts/update-on-lstepxyz/</id>
-    <content type="html">&lt;p&gt;Posted on February 1, 2025 by Loren&lt;/p&gt;
-&lt;p&gt;In 2024, I picked up the lstep.xyz domain with the idea of using it as a space to blog about non-tech stuff. All my tech related writing happens over at &lt;a href=&quot;https://ldstephens.me/&quot;&gt;ldstephens.me&lt;/a&gt;. But honestly? The way I’ve used it so far has been all over the place. I hosted it on Pika off and on, but I was never fully settled on it.&lt;/p&gt;
-&lt;p&gt;Lately, I’ve been thinking about moving it to a static site. I finally did it. The biggest reason was that I didn’t want to be tied to a platform. That’s exactly why I moved ldstephens.me to a static site too. Sure, I love the technical challenge, but more than that, I wanted full control. Platforms change, they shut down, and they enforce rules. When you own your own site, you make the rules.&lt;/p&gt;
-&lt;p&gt;This blog is mine. I built it myself, and I’m proud of that. Now I can do whatever the hell I want with it. It’s my own little corner of the internet. When you run your own site, you control everything. The content, the design, the URLs everything. No middlemen, no restrictions. Just a direct line between me and whoever stops by to read.&lt;/p&gt;
-&lt;p&gt;Oh, and if you’ve been following via RSS, don’t worry. I’ve set up a 301 redirect, so your feed should keep working just fine.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
     <title>On Don&#39;t Make a Blog, Make a Brain Dump</title>
     <link href="https://lstep.xyz/posts/link-post-dont-make-a-blog-make-a-brain-dump/" />
     <updated>2025-02-02T00:00:00Z</updated>
@@ -230,24 +218,6 @@
 </content>
   </entry>
   <entry>
-    <title>11ty project update</title>
-    <link href="https://lstep.xyz/posts/11ty-project-update/" />
-    <updated>2025-02-03T00:00:00Z</updated>
-    <id>https://lstep.xyz/posts/11ty-project-update/</id>
-    <content type="html">&lt;p&gt;Posted on February 3, 2025 by Loren&lt;/p&gt;
-&lt;p&gt;My attempt at replicating this site using 11ty was a complete failure. The skills required for the project are beyond my capabilities. The site works great as is with pure &lt;a href=&quot;https://htmlforpeople.com/&quot;&gt;HTML and CSS&lt;/a&gt; which I know how to manage.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>11ty project</title>
-    <link href="https://lstep.xyz/posts/11ty-project/" />
-    <updated>2025-02-03T00:00:00Z</updated>
-    <id>https://lstep.xyz/posts/11ty-project/</id>
-    <content type="html">&lt;p&gt;Posted on February 3, 2025 by Loren&lt;/p&gt;
-&lt;p&gt;Yesterday, I decided to replicate this site in 11ty as a learning project. The first thing I did was install Node.js. When I came to the 11ty install step, the install failed. After some additional attempts, I determined the problem might be the version of Node.js that I installed. So I uninstalled Node.js. Today, I’ll install a different version and start over.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
     <title>How I use AI for writing and coding</title>
     <link href="https://lstep.xyz/posts/how-i-use-ai-for-writing-and-coding/" />
     <updated>2025-02-06T00:00:00Z</updated>
@@ -270,55 +240,6 @@
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.techdirt.com/2025/02/10/no-the-people-didnt-vote-for-this/&quot;&gt;Mike Masnick&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Well! Well! Well! Lied to!&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Sorry for all the test posts today</title>
-    <link href="https://lstep.xyz/posts/sorry-for-all-the-test-posts-today/" />
-    <updated>2025-02-16T21:24:26Z</updated>
-    <id>https://lstep.xyz/posts/sorry-for-all-the-test-posts-today/</id>
-    <content type="html">&lt;p&gt;Posted on February 16, 2025 by Loren&lt;/p&gt;
-&lt;p&gt;Hey friends, sorry for all the test posts today. I’m working on getting the RSS feed working properly, and the only way to know if it’s working correctly is with test posts.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Test 2</title>
-    <link href="https://lstep.xyz/posts/test2/" />
-    <updated>2025-02-17T00:00:00Z</updated>
-    <id>https://lstep.xyz/posts/test2/</id>
-    <content type="html">&lt;p&gt;Posted on February 17, 2025 by Loren&lt;/p&gt;
-&lt;p&gt;Testing the RSS feed?&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Live on 11ty at Last!</title>
-    <link href="https://lstep.xyz/posts/live-on-11ty-at-last/" />
-    <updated>2025-02-17T16:11:34Z</updated>
-    <id>https://lstep.xyz/posts/live-on-11ty-at-last/</id>
-    <content type="html">&lt;p&gt;Posted on February 17, 2025 by Loren&lt;/p&gt;
-&lt;p&gt;The site is finally live on 11ty! Still working on getting the RSS feed running properly--doing it manually for now. If you&#39;re an 11ty pro and can help, shoot me an email.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Let&#39;s see how this goes</title>
-    <link href="https://lstep.xyz/posts/lets-see-how-this-goes/" />
-    <updated>2025-02-18T13:10:51Z</updated>
-    <id>https://lstep.xyz/posts/lets-see-how-this-goes/</id>
-    <content type="html">&lt;p&gt;Posted on February 18, 2025 by Loren&lt;/p&gt;
-&lt;p&gt;Yesterday I installed the 11ty RSS plugin. This is my first since installing it so if you get this post in your RSS feed then it’s working.&lt;/p&gt;
-&lt;p&gt;It’s a cold morning in New Jersey 20° with a wind chill of 18°. Not supposed to get out of the 20’s all day. Looks like we’ll be confined indoors all day so I’ll work on building my other blog in 11ty.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>From Static HTML to Eleventy</title>
-    <link href="https://lstep.xyz/posts/from-static-html-to-eleventy/" />
-    <updated>2025-02-19T19:54:52Z</updated>
-    <id>https://lstep.xyz/posts/from-static-html-to-eleventy/</id>
-    <content type="html">&lt;p&gt;Posted on February 19, 2025 by Loren&lt;/p&gt;
-&lt;p&gt;As the title suggests, this blog is now generated using &lt;a href=&quot;https://www.11ty.dev/&quot;&gt;Eleventy&lt;/a&gt; also known as 11ty. You might remember that I had planned to rebuild the blog using 11ty, and after a lot of trial and error, I finally made it happen. The process wasn&#39;t easy, but I&#39;ve learned a ton.&lt;/p&gt;
-&lt;p&gt;The difference between a plain static site and one generated with Eleventy is huge.&lt;/p&gt;
-&lt;p&gt;When managing a static site manually, everything had to be created and organized by hand HTML, CSS, and all the files. Each page was its own separate HTML file, so if something like the navigation needed updating, every page had to be changed individually. There was no templating, no automation just raw HTML, written line by line.&lt;/p&gt;
-&lt;p&gt;With Eleventy and Nunjucks, things are much easier. Content can be written in Markdown or Nunjucks templates, and Eleventy takes care of generating the final HTML. Instead of repeating the same structure on every page, layouts can be created and reused. Updates are simple--changing a single template regenerates the entire site. Data from JSON files or APIs can be pulled in to dynamically create pages. It&#39;s a much more efficient and flexible way to manage a static site compared to doing everything manually. And, the Eleventy RSS plugin automatically updates and processes an RSS feed whenever a new post is added.&lt;/p&gt;
 </content>
   </entry>
   <entry>
@@ -464,27 +385,6 @@
 &lt;p&gt;It’s not like we’re getting a freebie here. We all paid into Social Security and Medicare our entire working lives. I started working when I was 15 years old and was never without a job until I retired. So I paid my fucking dues and so did all other seniors.&lt;/p&gt;
 &lt;p&gt;Oh, but sure, let&#39;s just skip a payment, what could possibly go wrong? Maybe Lutnick thinks we can all just hop on our yachts and ride out the month, or maybe we should start selling off our prescription meds to make rent. The sheer arrogance of a billionaire pretending he knows what it&#39;s like to rely on Social Security is bullshit. News flash: We&#39;re not asking for a favor. We&#39;re demanding what we &lt;em&gt;earned&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;Maybe you can tell I’m pissed. &lt;em&gt;Don’t fuck with our Social Security and Medicare!&lt;/em&gt;&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Migrating an old blog from WordPress.com to Eleventy</title>
-    <link href="https://lstep.xyz/posts/migrating-an-old-blog-from-wordpresscom-to-eleventy/" />
-    <updated>2025-03-23T10:08:57Z</updated>
-    <id>https://lstep.xyz/posts/migrating-an-old-blog-from-wordpresscom-to-eleventy/</id>
-    <content type="html">&lt;p&gt;Posted on March 23, 2025 by Loren&lt;/p&gt;
-&lt;p&gt;I&#39;ve got this old blog over on &lt;a href=&quot;https://ldstephens.net&quot;&gt;WordPress.com&lt;/a&gt; that I don&#39;t post to anymore, but people still check it out. When it was time to renew the subscription, I just went with the free version. Now, every time you go there, there&#39;s a banner on the header of every page telling me to upgrade, and tons of fucking ads. It looks like shit.&lt;/p&gt;
-&lt;p&gt;Anyway, the other day I found this article about &lt;a href=&quot;https://www.11ty.dev/docs/migrate/wordpress/&quot;&gt;migrating blogs from WordPress to Eleventy&lt;/a&gt;. This blog is built with 11ty. So, I&#39;m trying to move the WordPress blog over to Eleventy. If it works out, I’ll deploy it on Netlify or Vercel.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Important Update - this blog has a new RSS Feed</title>
-    <link href="https://lstep.xyz/posts/important-update-this-blog-has-a-new-rss-feed/" />
-    <updated>2025-03-25T10:47:40Z</updated>
-    <id>https://lstep.xyz/posts/important-update-this-blog-has-a-new-rss-feed/</id>
-    <content type="html">&lt;p&gt;Posted on March 25, 2025 by Loren&lt;/p&gt;
-&lt;p&gt;Hey everyone, just a quick heads-up--I&#39;m moving my blog from &lt;strong&gt;lstep.xyz&lt;/strong&gt; to &lt;a href=&quot;https://ldstephens.net&quot;&gt;&lt;strong&gt;ldstephens.net&lt;/strong&gt;&lt;/a&gt;. If you follow via RSS, you&#39;ll need to update your feed settings to the new URL:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;New RSS Feed:&lt;/strong&gt; &lt;a href=&quot;https://ldstephens.net/feed/feed.xml&quot;&gt;https://ldstephens.net/feed/feed.xml&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Thanks for sticking around! See you at the new place. 🚀&lt;/p&gt;
 </content>
   </entry>
 </feed>
