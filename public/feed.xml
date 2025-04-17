@@ -4,7 +4,7 @@
   <subtitle>A blog by Loren.</subtitle>
   <link href="https://lstep.xyz/feed.xml" rel="self" />
   <link href="https://lstep.xyz/" />
-  <updated>2025-04-17T15:39:20Z</updated>
+  <updated>2025-04-17T16:17:34Z</updated>
   <id>https://lstep.xyz/</id>
   <author>
     <name>Loren</name>
@@ -427,6 +427,15 @@
 &lt;p&gt;I guess for us techies especially, the desire to tinker with the site comes from having a deeper interest in writing code than writing prose.[…] I also love tinkering with my website to learn new things and to make the site and its tooling even better suited for my own needs.[…] I can write my blog posts on my iPad when I’m in the library or local pub and at that time, there’s no way for me to tinker with the tools or the website itself.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;a href=&quot;https://hamatti.org/posts/resisting-the-urge-to-rewrite-the-website/&quot;&gt;Juha-Matti Santala&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Writing on iPad</title>
+    <link href="https://lstep.xyz/posts/writing-on-ipad/" />
+    <updated>2025-04-17T16:17:34Z</updated>
+    <id>https://lstep.xyz/posts/writing-on-ipad/</id>
+    <content type="html">&lt;p&gt;April 17, 2025&lt;/p&gt;
+&lt;p&gt;Every time I decide to write a blog post on my iPad, I’m amazed at how much faster and accurately I type on the 11” iPad keyboard compared to the 13” MacBook Air keyboard. It’s probably worthwhile doing more of my writing on my iPad.&lt;/p&gt;
 </content>
   </entry>
 </feed>
