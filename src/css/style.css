@@ -13,7 +13,6 @@
    --blockquote-color: #ccc;
    --shade-color: #f5f5f5;
 }
-
 @media (prefers-color-scheme: dark) {
    :root {
       --background-color: #01242e;
@@ -26,7 +25,6 @@
       --blockquote-color: #ccc;
    }
 }
-
 body {
    font-family: var(--font-secondary);
    font-size: var(--font-scale);
@@ -52,54 +50,43 @@ h6 {
    font-family: var(--font-main);
    color: var(--heading-color);
 }
-
 a {
    color: var(--link-color);
    cursor: pointer;
    text-decoration: none;
 }
-
 a:hover {
    text-decoration: underline;
 }
-
 nav a {
    margin-right: 8px;
 }
-
 strong,
 b {
    color: var(--heading-color);
 }
-
 button {
    margin: 0;
    cursor: pointer;
 }
-
 time {
    font-family: monospace;
    font-style: normal;
    font-size: 15px;
 }
-
 main {
    line-height: 1.6;
 }
-
 table {
    width: 100%;
 }
-
 hr {
    border: 0;
    border-top: 1px dashed;
 }
-
 img {
    max-width: 100%;
 }
-
 code {
    font-family: monospace;
    padding: 2px;
@@ -107,31 +94,25 @@ code {
    color: var(--code-color);
    border-radius: 3px;
 }
-
 blockquote {
    border-left: 1px solid #999;
    color: var(--code-color);
    padding-left: 20px;
    font-style: italic;
 }
-
 footer {
    padding: 25px 0;
    text-align: center;
 }
-
 .title:hover {
    text-decoration: none;
 }
-
 .title h1 {
    font-size: 1.5em;
 }
-
 .inline {
    width: auto !important;
 }
-
 .highlight,
 .code {
    padding: 1px 15px;
@@ -142,25 +123,20 @@ footer {
    margin-block-end: 1em;
    overflow-x: auto;
 }
-
 /* blog post list */
 ul.blog-posts {
    list-style-type: none;
    padding: unset;
 }
-
 ul.blog-posts li {
    display: flex;
 }
-
 ul.blog-posts li span {
    flex: 0 0 130px;
 }
-
 ul.blog-posts li a:visited {
    color: var(--visited-color);
 }
-
 /* Navigation */
 nav {
    margin-bottom: 40px;
@@ -186,7 +162,6 @@ nav a:hover {
    padding: 0;
    max-width: var(--width);
 }
-
 .blog-page li {
    display: flex;
    gap: 10px;
@@ -194,27 +169,87 @@ nav a:hover {
    font-family: var(--font-main);
    color: var(--text-color);
 }
-
 .blog-page span {
    min-width: 100px;
    font-weight: normal;
    color: var(--text-color);
 }
-
 .blog-page a {
    flex: 1;
    text-decoration: none;
    color: var(--link-color);
    font-family: var(--font-main);
 }
-
 .blog-page a:visited {
    color: var(--visited-color);
 }
 footer {
    font-size: 14px; /* Set to your desired size */
 }
-
 .footnotes {
    font-size: smaller; /* Relative to parent element */
+}
+
+/* Recent Posts Section Styling */
+.recent-posts {
+   margin: 2rem 0;
+   font-family: var(--font-secondary);
+}
+
+.recent-posts h2 {
+   color: var(--heading-color);
+   margin-bottom: 0.8rem;
+   font-size: 1.2em;
+}
+
+.post-list {
+   list-style: none;
+   padding: 0;
+}
+
+.post-item {
+   margin-bottom: 0.7rem;
+   border-bottom: 1px dashed rgba(140, 194, 221, 0.3);
+   padding-bottom: 0.7rem;
+}
+
+.post-item:last-child {
+   border-bottom: none;
+}
+
+.post-item h3 {
+   margin: 0 0 0.1rem 0;
+   font-size: 1.1em;
+}
+
+.post-item h3 a {
+   color: var(--link-color);
+   text-decoration: none;
+}
+
+.post-item h3 a:hover {
+   text-decoration: underline;
+}
+
+.post-item time {
+   display: block;
+   font-size: 0.85rem;
+   color: var(--text-color); /* #8b9eaf; */
+   margin-bottom: 0.2rem;
+}
+
+.post-item p {
+   margin: 0.3rem 0 0 0;
+   font-size: 0.9em;
+}
+
+.all-posts-link {
+   display: inline-block;
+   margin-top: 0.8rem;
+   font-size: 0.9em;
+   text-decoration: none;
+}
+
+.all-posts-link:hover {
+   text-decoration: underline;
 }
