@@ -253,3 +253,19 @@ footer {
 .all-posts-link:hover {
    text-decoration: underline;
 }
+.blog-buttons {
+   display: flex;
+   justify-content: center;
+   flex-wrap: wrap;
+   gap: 12px;
+   margin-top: 1.5rem;
+}
+
+.blog-buttons a {
+   display: inline-block;
+}
+
+.blog-buttons img {
+   height: 20px;
+   vertical-align: middle;
+}
