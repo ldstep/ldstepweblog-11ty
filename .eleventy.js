@@ -60,11 +60,11 @@ module.exports = function (eleventyConfig) {
       },
       metadata: {
          language: "en",
-         title: "lstep.xyz", // Change this to your site's title
-         subtitle: "A blog by Loren.", // Change this
-         base: "https://lstep.xyz", // Change to your actual domain
+         title: "ldstephens weblog", // Change this to your site's title
+         subtitle: "A weblog by ldstephens.", // Change this
+         base: "https://weblog.ldstephens.net", // Change to your actual domain
          author: {
-            name: "Loren", // Change to your name
+            name: "ldstephens", // Change to your name
             email: "", // Optional - add your email if you want
          },
       },
