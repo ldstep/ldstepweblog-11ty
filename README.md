@@ -1,2 +1,2 @@
 # lstep-11ty
-lstep 11ty build
+The repository for ldstephens weblog
