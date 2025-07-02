@@ -10,4 +10,4 @@ I also run a [tech blog](https://ldstephens.net), where I mostly geek out over A
 
 So why the hell did I start this weblog? Because sometimes I want to write about things that have nothing to do with tech. And honestly, my tech blog audience didn't sign up for my hot takes, personal stories, or my occasional rant about the state of the world.
 
-Anyway, I have no clue where this thing is going. Could be great, could be mess. Either way, stick around. Or don't. It's your call.
+Anyway, I have no clue where this thing is going. Could be great, could be a mess. Either way, stick around. Or don't. It's your call.
