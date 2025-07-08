@@ -7,6 +7,8 @@ tags:
 layout: layouts/post.njk
 ---
 
+July 7, 2025
+
 > I don’t know who reads this. I don’t know how they find it. I don’t know if they’ll ever come back. I don’t know a damned thing. And that’s by design. I value my privacy and by extension, I value others’. That’s exactly why I don’t have newsletters. The last thing I want is someone’s email.
 > 
 > […] 

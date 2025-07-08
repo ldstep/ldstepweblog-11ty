@@ -7,6 +7,8 @@ tags:
 layout: layouts/post.njk
 --- 
 
+June 30, 2025
+
 Since I've started adding some running sections to my morning walks with Trix (our dog), I decided to start recording them in [Strava](https://www.strava.com/) yesterday. I've had a Strava account for years, from back in my bike racing days, so it was easy to pick it back up.
 
 I'm not planning to do anything serious with the running, but hey, at 80, I might actually place pretty well in some 5K events.
