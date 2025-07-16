@@ -7,6 +7,8 @@ tags:
 layout: layouts/post.njk
 ---
 
+July 16, 2025
+
 Sally Jenkins, [The Washington Post](https://www.washingtonpost.com/sports/2025/07/10/john-mcenroe-wimbledon-broadcast/) 
 
 > Please, someone in American television, break the McEnroe grip on tennis microphones. Belching up words is not broadcasting, a craft John McEnroe never learned. Johnny Mac has become an entitled air quaffer, a lapsed past master turned trifler who refuses to work at it. Witness how he tends to butcher the names of anyone not ranked in the top five. As for younger brother Patrick, he burps out banalities with the same offbeat affect as his bro, apparently believing it passes for alert observation. You need Pepto after listening to them for two hours.[…] Coupled in the ESPN broadcast booth at Wimbledon this week, they have given the viewer about as much information as a couple of air compressors, complete with the irritating hissing
