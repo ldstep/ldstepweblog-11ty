@@ -9,7 +9,6 @@
       <title>ldstephens weblog</title>
       <meta name="description" content="A weblog by ldstephens" />
       <link rel="stylesheet" type="text/css" href="/css/style.css" />
-      <script defer src="/_vercel/insights/script.js"></script>
       <!-- Removed SEO tag -->
    </head>
    <body class="{{ templateClass }}">
@@ -19,28 +18,31 @@
          {{ content | safe }}
          <footer class="footer">
             <div class="links">
-               <a href="/">Home</a>
-               <span class="divider">|</span>
                <a href="/posts">Weblog</a>
                <span class="divider">|</span>
-               <a href="/uses">Uses</a>
+               <a href="https://weblog.ldstephens.net/feed.xml"
+                  >Weblog RSS Feed</a
+               >
                <span class="divider">|</span>
-               <a href="/colophon">Colophon</a>
+               <a href="https://ldstephens.net">Main Site</a>
             </div>
+
             <p>
-               <a href="https://letterbird.co/ldstephens">Email Me</a> |
-               <a href="https://weblog.ldstephens.net/feed.xml">RSS Feed</a>
-            </p>
-            <p>
-               This work is licensed under
+               Built with
+               <a href="https://www.11ty.dev/">{{ eleventy.generator }}</a> |
+               Licensed under
                <a
                   href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1"
                   >CC BY-SA 4.0</a
                >
+               | <a href="https://letterbird.co/ldstephens">Email Me</a>
             </p>
          </footer>
       </main>
-      <script data-goatcounter="https://lstep.goatcounter.com/count"
-        async src="//gc.zgo.at/count.js"></script>
+      <script
+         data-goatcounter="https://lstep.goatcounter.com/count"
+         async
+         src="//gc.zgo.at/count.js"
+      ></script>
    </body>
 </html>
