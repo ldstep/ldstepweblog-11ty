@@ -1,7 +1,10 @@
 :root {
-   --width: 720px;
-   --font-main: "JetBrains Mono", monospace;
-   --font-secondary: "JetBrains Mono", monospace;
+   --width: 690px;
+   --font-main: -apple-system, system-ui, sans-serif;
+   --font-secondary: Consolas, Menlo, Monaco, Andale Mono WT, Andale Mono,
+      Lucida Console, Lucida Sans Typewriter, DejaVu Sans Mono,
+      Bitstream Vera Sans Mono, Liberation Mono, Nimbus Mono L, Courier New,
+      Courier, monospace;
    --font-scale: 1em;
    --background-color: #ffff; /* old #fff */
    --heading-color: #222222; /* old #222 */
@@ -28,11 +31,11 @@
 }
 
 body {
-   font-family: var(--font-secondary);
+   font-family: var(--font-main);
    font-size: var(--font-scale);
    margin: auto;
    padding: 20px;
-   max-width: var(--width);
+   max-width: 40em;
    text-align: left;
    background-color: var(--background-color);
    word-wrap: break-word;
