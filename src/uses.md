@@ -6,7 +6,7 @@ layout: layouts/page.njk
 
 Updated: January 10, 2025
 
-### Desktop: M1 13” Macbook Air
+### Desktop: M4 14” Macbook Pro
 
 **Peripherals:**
 
