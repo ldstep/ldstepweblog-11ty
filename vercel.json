@@ -1,9 +1,14 @@
 {
-   "redirects": [
-      {
-         "source": "/feed",
-         "destination": "/feed.xml",
-         "permanent": true
-      }
-   ]
+  "redirects": [
+    {
+      "source": "/feed",
+      "destination": "/feed.xml",
+      "permanent": true
+    },
+    {
+      "source": "/feed/feed.xml",
+      "destination": "/feed.xml",
+      "permanent": true
+    }
+  ]
 }
