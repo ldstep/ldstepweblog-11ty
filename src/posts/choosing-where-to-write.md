@@ -7,6 +7,8 @@ tags:
 layout: layouts/post.njk
 ---
 
+July 23, 2025
+
 I’m always torn about where I want to write. I’ve got plenty of options, but it comes down to two: [Drafts](https://getdrafts.com) and [MarkEdit](https://github.com/MarkEdit-app/MarkEdit).
 
 What I like about MarkEdit is that it’s file-based, clean, and built specifically for writing in Markdown. It feels focused with fewer distractions, just me and the words. That’s the kind of environment I want for writing blog posts and journal entries. I’m aiming for consistency, and I’d like to settle into a workflow that sticks.

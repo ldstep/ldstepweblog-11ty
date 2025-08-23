@@ -5,7 +5,9 @@ date: 2025-08-06T18:42:54Z
 tags:
    - posts
 layout: layouts/post.njk
---- 
+---
+
+August 6, 2025 
 
 About every two weeks, I make a run to Tractor Supply for 150 pounds of cracked corn and 80 pounds of birdseed, and today was that day. We put corn out twice a day for the deer and wild turkeys, and keep the feeders full for all the birds passing through.
 

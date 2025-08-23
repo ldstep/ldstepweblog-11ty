@@ -7,6 +7,8 @@ tags:
 layout: layouts/post.njk
 ---
 
+August 21, 2025
+
 > + **Dem Bones:** "Few measurements reflect the luster of a political party’s brand more clearly than the choice by voters to identify with it — whether they register on a clipboard in a supermarket parking lot, at the Department of Motor Vehicles or in the comfort of their own home. And fewer and fewer Americans are choosing to be Democrats." [The Democratic Party Faces a Voter Registration Crisis](https://www.nytimes.com/2025/08/20/us/politics/democratic-party-voter-registration-crisis.html?unlocked_article_code=1.fk8.tFTN.oXrlWoASCDq8&smid=bs-share).
 
 […] 

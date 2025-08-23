@@ -7,6 +7,8 @@ tags:
 layout: layouts/post.njk
 ---
 
+August 21, 2025
+
 >  * Pundits are not Journalists.
 >  * Op-ed is not news.
 >  * Polls are propaganda.

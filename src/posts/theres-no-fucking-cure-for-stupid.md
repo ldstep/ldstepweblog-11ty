@@ -6,6 +6,9 @@ tags:
    - posts
 layout: layouts/post.njk
 ---
+
+August 8, 2025
+
 [RFK Jr. Cancels Nearly $500 Million in mRNA Vaccine Contracts](https://www.nytimes.com/2025/08/05/health/rfk-jr-vaccine-funding.html?unlocked_article_code=1.cE8.a0JR.g9jlujYQCzsG&smid=nytcore-ios-share&referringSource=articleShare)
 
 > Health Secretary Robert F. Kennedy Jr. has canceled nearly $500 million of grants and contracts for developing mRNA vaccines, the Department of Health and Human Services [announced on Tuesday](https://www.hhs.gov/press-room/hhs-winds-down-mrna-development-under-barda.html).
