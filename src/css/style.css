@@ -145,28 +145,6 @@ ul.blog-posts li a:visited {
    color: var(--visited-color);
 }
 
-/* Navigation */
-nav {
-   margin-bottom: 40px;
-   line-height: 3;
-   font-family: var(--font-secondary);
-}
-
-nav a {
-   margin-right: 7px;
-   padding: 12px 10px;
-   font-size: 0.9em;
-   color: var(--link-color);
-   border: 2px solid;
-   border-color: var(--link-color);
-   border-radius: 15px;
-   text-decoration: none;
-}
-
-nav a:hover {
-   background: var(--code-background-color);
-}
-
 /* blog.html styling */
 .blog-page ul {
    list-style-type: none;

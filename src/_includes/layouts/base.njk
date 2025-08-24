@@ -13,6 +13,15 @@
    </head>
    <body class="{{ templateClass }}">
       <h1><a href="/">ldstephens weblog</a></h1>
+      <nav>
+   <div class="links">
+      <a href="/index">Home</a>
+      <a href="/posts">Archive</a>
+      <a href="/uses">Uses</a>
+      <a href="/colophon">Colophon</a>
+      <a href="https://weblog.ldstephens.net/feed.xml">Feed</a>
+   </div>
+</nav>
       <main>
          {# Page or post content will appear here #}
          {{ content | safe }}
