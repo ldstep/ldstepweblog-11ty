@@ -2,7 +2,7 @@
   /* 📐 Layout */
   --width: 650px;
 
-  /* 💻 System Fonts */
+  /* 💻 System Fonts (Modern, High-Performance) */
   --font-main: ui-sans-serif, system-ui, sans-serif;
   --font-secondary: ui-sans-serif, system-ui, sans-serif;
   --font-code: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
@@ -11,75 +11,24 @@
   --font-size-base: 1em;
   --line-height-base: 1.8;
 
-  /* 🎨 DEFAULT: Monochrome Colors (Light Theme) */
-  --background-color: #ffffff;
-  --heading-color: #000000;
-  --text-color: #000000;
+  /* 🎨 Monochrome Colors (Black on White) */
+  --background-color: #ffffff;      /* Pure White Background */
+  --heading-color: #000000;         /* Pure Black Headings/Strong */
+  --text-color: #000000;            /* Pure Black Text */
 
-  --link-color: #000000;
-  --visited-color: #000000;
+  --link-color: #000000;            /* Black Links */
+  --visited-color: #000000;         /* Black Visited Links */
 
-  --code-background-color: #eeeeee;
-  --code-color: #000000;
+  --code-background-color: #eeeeee; /* Light Gray for Code Background */
+  --code-color: #000000;            /* Black Code Text */
 
-  --blockquote-color: #000000;
-  --blockquote-border: #888888;
+  --blockquote-color: #000000;      /* Black blockquote text */
+  --blockquote-border: #888888;     /* Medium Gray border */
 
-  --accent-color: #000000;
-  --hr-color: #000000;
+  --accent-color: #000000;          /* Black Accent */
+  --hr-color: #000000;              /* Black HR Line */
 }
 
-/* 🌙 Dark Mode Preference */
-@media (prefers-color-scheme: dark) {
-  :root {
-    /* Using your original dark theme colors */
-    --background-color: #282a36;
-    --heading-color: #cdd6f4;
-    --text-color: #cdd6f4;
-
-    --link-color: #89b4fa;
-    --visited-color: #89b4fa;
-
-    --code-background-color: #313244;
-    --code-color: #cdd6f4;
-
-    --blockquote-color: #cdd6f4;
-    --blockquote-border: #585b70; /* Using a neutral dark gray border */
-
-    --accent-color: #bd93f9; /* Using the purple for headings/strong */
-    --hr-color: #ff79c6; /* Using the pink for the HR */
-  }
-
-  /* ******************************************************* */
-  /* --- Dark Mode Link & Text Adjustments (Crucial!) --- */
-  /* ******************************************************* */
-
-  /* Dark mode links must be explicitly restyled here to use color for distinction */
-  a {
-    text-decoration: none; /* Dark mode links look better without the persistent underline */
-    color: var(--link-color);
-  }
-
-  a:hover {
-    text-decoration: underline; /* Add underline on hover for clarity in dark mode */
-  }
-
-  strong, b {
-    color: var(--accent-color); /* Use the purple accent color in dark mode */
-  }
-
-  nav a,
-  .blog-page a {
-    text-decoration: none; /* Ensure no underline */
-  }
-}
-/* End of Dark Mode Preference block */
-
----
-
-### Global Styling (Applies to both Light and Dark)
-
-```css
 body {
   font-family: var(--font-secondary);
   font-size: var(--font-size-base);
@@ -87,7 +36,6 @@ body {
   padding: 20px;
   max-width: var(--width);
   text-align: left;
-  /* Colors are inherited from :root or @media query */
   background-color: var(--background-color);
   word-wrap: break-word;
   overflow-wrap: break-word;
@@ -102,28 +50,28 @@ h4,
 h5,
 h6 {
   font-family: var(--font-main);
-  color: var(--accent-color); /* Uses black in light, purple in dark */
+  color: var(--heading-color);
   line-height: 1.15;
 }
 
 a {
   color: var(--link-color);
   cursor: pointer;
-  text-decoration: underline; /* Default link style (overridden in @media) */
+  text-decoration: underline; /* All links are underlined */
 }
 
 a:hover {
-  text-decoration: none;
+  text-decoration: none; /* Removes underline on hover for a cleaner effect */
 }
 
 nav a {
   margin-right: 8px;
-  /* Link decoration is now handled by the global 'a' rule or the @media block */
+  /* Now inherits 'text-decoration: underline;' from the global 'a' rule */
 }
 
 strong,
 b {
-  color: var(--accent-color); /* Uses black in light, purple in dark */
+  color: var(--heading-color);
 }
 
 button {
@@ -274,5 +222,5 @@ ul.blog-posts li a:visited {
 }
 
 h1 a {
-  color: var(--accent-color) !important;
+  color: var(--heading-color) !important;
 }
