@@ -11,7 +11,7 @@
   --font-size-base: 1em;
   --line-height-base: 1.8;
 
-  /* 🎨 Monochrome Colors (Black on White) */
+  /* 🎨 DEFAULT: Monochrome Colors (Light Theme) */
   --background-color: #ffffff;
   --heading-color: #000000;
   --text-color: #000000;
@@ -29,6 +29,57 @@
   --hr-color: #000000;
 }
 
+/* 🌙 Dark Mode Preference */
+@media (prefers-color-scheme: dark) {
+  :root {
+    /* Using your original dark theme colors */
+    --background-color: #282a36;
+    --heading-color: #cdd6f4;
+    --text-color: #cdd6f4;
+
+    --link-color: #89b4fa;
+    --visited-color: #89b4fa;
+
+    --code-background-color: #313244;
+    --code-color: #cdd6f4;
+
+    --blockquote-color: #cdd6f4;
+    --blockquote-border: #585b70; /* Using a neutral dark gray border */
+
+    --accent-color: #bd93f9; /* Using the purple for headings/strong */
+    --hr-color: #ff79c6; /* Using the pink for the HR */
+  }
+
+  /* ******************************************************* */
+  /* --- Dark Mode Link & Text Adjustments (Crucial!) --- */
+  /* ******************************************************* */
+
+  /* Dark mode links must be explicitly restyled here to use color for distinction */
+  a {
+    text-decoration: none; /* Dark mode links look better without the persistent underline */
+    color: var(--link-color);
+  }
+
+  a:hover {
+    text-decoration: underline; /* Add underline on hover for clarity in dark mode */
+  }
+
+  strong, b {
+    color: var(--accent-color); /* Use the purple accent color in dark mode */
+  }
+
+  nav a,
+  .blog-page a {
+    text-decoration: none; /* Ensure no underline */
+  }
+}
+/* End of Dark Mode Preference block */
+
+---
+
+### Global Styling (Applies to both Light and Dark)
+
+```css
 body {
   font-family: var(--font-secondary);
   font-size: var(--font-size-base);
@@ -36,6 +87,7 @@ body {
   padding: 20px;
   max-width: var(--width);
   text-align: left;
+  /* Colors are inherited from :root or @media query */
   background-color: var(--background-color);
   word-wrap: break-word;
   overflow-wrap: break-word;
@@ -50,14 +102,14 @@ h4,
 h5,
 h6 {
   font-family: var(--font-main);
-  color: var(--heading-color);
+  color: var(--accent-color); /* Uses black in light, purple in dark */
   line-height: 1.15;
 }
 
 a {
   color: var(--link-color);
   cursor: pointer;
-  text-decoration: underline; /* All links are underlined by default */
+  text-decoration: underline; /* Default link style (overridden in @media) */
 }
 
 a:hover {
@@ -66,12 +118,12 @@ a:hover {
 
 nav a {
   margin-right: 8px;
-  /* The underline is now inherited from the global 'a' rule */
+  /* Link decoration is now handled by the global 'a' rule or the @media block */
 }
 
 strong,
 b {
-  color: var(--heading-color);
+  color: var(--accent-color); /* Uses black in light, purple in dark */
 }
 
 button {
@@ -222,5 +274,5 @@ ul.blog-posts li a:visited {
 }
 
 h1 a {
-  color: var(--heading-color) !important;
+  color: var(--accent-color) !important;
 }
