@@ -6,6 +6,7 @@ tags:
    - posts
 layout: layouts/post.njk
 ---
+October 25, 2025
 
 I updated the design of this site today. It’s simpler, faster, and easier to read.
 
