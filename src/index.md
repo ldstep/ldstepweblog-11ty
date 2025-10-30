@@ -10,4 +10,4 @@ For now, this is my little corner of the web where I share whatever’s on my mi
 
 Anyway, I have no clue where this thing is going. Could be great, could be a mess. Either way, stick around. Or don’t. It’s your call.
 
-<a href="/posts">Start Here</a>
+<a href="/posts">Post Archive</a>
