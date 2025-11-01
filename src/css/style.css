@@ -237,3 +237,9 @@ ul.blog-posts li a:visited {
 h1 a {
   color: var(--heading-color) !important;
 }
+.post-date {
+  display: inline-block;
+  width: 90px; /* or whatever fits your dates */
+  text-align: right;
+  margin-right: 0.5em;
+}
