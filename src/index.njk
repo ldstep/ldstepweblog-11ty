@@ -1,0 +1,30 @@
+---
+layout: layouts/home.njk
+---
+
+<div class="illo-container"></div>
+<p>
+  Hey, I&#8217;m ldstephens. This domain isn&#8217;t my first; I&#8217;ve been
+  writing online since the late 1990s, and I can&#8217;t count how many times
+  I&#8217;ve pulled the plug on previous blogs. For now, this is my little
+  corner of the web where I share whatever&#8217;s on my mind: stories, random
+  thoughts, and the occasional rant.
+</p>
+<p>
+  You&#8217;ll also find quotes that resonate with me and links I believe are
+  worth sharing. Nothing fancy, just the small but meaningful stuff from my
+  day-to-day life. Anyway, I have no clue where this thing is going.
+</p>
+<p>
+  Could be great, could be a mess. Either way, stick around. Or don&#8217;t.
+  It&#8217;s your call.
+</p>
+<h1>My 10 Most Recent Posts:</h1>
+<ul>
+  {%- for post in collections.posts.slice(0, 10) -%}
+  <li>
+    {{ post.date | htmlDateString }} —
+    <a href="{{ post.url }}">{{ post.data.title }}</a>
+  </li>
+  {%- endfor -%}
+</ul>
